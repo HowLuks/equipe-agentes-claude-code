@@ -60,7 +60,7 @@ A sessão principal do Claude Code funciona como **orquestrador**: entende o ped
 
 ## Em números
 
-Em uso desde 21/10/2026. Nos primeiros 8 dias, o cofre recebeu 55 registros com tag de agente (decisões, aprendizados e trabalho do dia), em 6 projetos, e a base compartilhada já reúne 13 aprendizados.
+Em uso desde 21/10/2026. Nos primeiros 11 dias, o cofre recebeu 65 registros com tag de agente (decisões, aprendizados e trabalho do dia), em 6 projetos, e a base compartilhada já reúne 14 aprendizados.
 
 ## Como usar
 

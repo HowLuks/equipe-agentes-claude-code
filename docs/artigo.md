@@ -58,7 +58,7 @@ Esses arquivos não entram nos commits dos projetos. A cópia deles fica no pró
 
 ## O que mudou na prática
 
-Nos primeiros 8 dias de uso, o cofre recebeu 55 registros com tag de agente, em 6 projetos, e a base compartilhada já reúne 13 aprendizados. Mais importante que o número: abrir um projeto depois de dias parado ficou barato, porque a primeira coisa que a sessão faz é ler as pendências e me dizer o que ficou em aberto.
+Nos primeiros 11 dias de uso, o cofre recebeu 65 registros com tag de agente, em 6 projetos, e a base compartilhada já reúne 14 aprendizados. Mais importante que o número: abrir um projeto depois de dias parado ficou barato, porque a primeira coisa que a sessão faz é ler as pendências e me dizer o que ficou em aberto.
 
 ## Limites
 
